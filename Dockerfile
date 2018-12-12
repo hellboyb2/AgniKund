@@ -5,7 +5,7 @@ MAINTAINER Bittu_Kumar <bittukumar1996@gmail.com>
 
 WORKDIR /AgniKund
 
-COPY Agni-XSS_Playground/. /AgniKund/
+COPY AgniKund-XSS_Playground/. /AgniKund/
 
 EXPOSE 8000
 
