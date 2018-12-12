@@ -1,6 +1,6 @@
 # AgniKund
 
-It is a tool for learning purpose only for students and researchers. 
+It is a tool written in php for learning purpose only for students and researchers. 
 
 For students who are trying to learn , my advise would be to go to Reflected section first then dom then stored.
 
